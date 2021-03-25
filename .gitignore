@@ -7,5 +7,4 @@ sqlorm.go
 sqlserver.go
 TestConData.go
 viper.go
-main.go
 go.mod
